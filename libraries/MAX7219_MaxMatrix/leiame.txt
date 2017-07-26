@@ -1,0 +1,2 @@
+Você precisa descompactar esta bilbioteca e copiar em:
+C:\Program Files\Arduino\Libraries
